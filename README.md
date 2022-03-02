@@ -436,6 +436,7 @@ L2 = 0.5 μH
 
 # VIDEO #
 
+https://youtu.be/Ll1T6AQS308
 
 # CONCLUSIONES #
 
@@ -444,3 +445,5 @@ L2 = 0.5 μH
 # BIBLIOGRAFIA #
 
 - Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
+- Conoce y Aprende. (2019, 3 agosto). Circuitos RLC, lo que necesita saber para empezar a entender el tema. [Vídeo]. YouTube. https://www.youtube.com/watch?v=Lyt69EvbxBE
+- L. (2018c, diciembre 25). FILTRO PASIVO [Vídeo]. EL CAJÓN DEL ELECTRÓNICO. https://elcajondelelectronico.com/filtro-pasivo/
