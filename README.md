@@ -42,7 +42,16 @@ Estudiar y ampliar los métodos de análisis aprendidos en los capítulos anteri
 
 **CAPITULO 17**
 
+**1. Cierto circuito RLC en serie tiene los siguientes valores: R  10 Æ, C  0.047 mF, y L  5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.**
 
+520∠-88.9° ;520 ohms
+
+
+**3. Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?**
+
+[![01.png](https://i.postimg.cc/Hkzt9VTj/01.png)](https://postimg.cc/fV3XwWth)
+
+La impedancia se incrementa a 150 ohms
 
 
 **5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.**
@@ -73,8 +82,15 @@ Estudiar y ampliar los métodos de análisis aprendidos en los capítulos anteri
 
 <img src="https://latex.codecogs.com/svg.image?\\P_{a}=I_{tot}V_{s}=(35.8mA)(12V)=430mVA\\[5pt]" title="\\P_{a}=I_{tot}V_{s}=(35.8mA)(12V)=430mVA\\[5pt]" />
 
+**9. Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?**
 
+[![02.png](https://i.postimg.cc/d1bRVCjN/02.png)](https://postimg.cc/dk9ZWLXG)
 
+12V
+
+**11. Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?**
+
+Z = 200Oohms, Xc = XL = 2kohms
 
 
 **13. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?**
@@ -90,7 +106,23 @@ Estudiar y ampliar los métodos de análisis aprendidos en los capítulos anteri
  
 ![image](https://user-images.githubusercontent.com/93739242/155629047-4e6a9f06-059f-4086-8e75-08b26a07c977.png)
 
+**17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.**
 
+[![03.png](https://i.postimg.cc/RZjJxmC4/03.png)](https://postimg.cc/pmJLKgn6)
+
+El ángilo de fase de -4.43° indica que el circuito es capacitivo
+
+**19. Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar**
+
+IR = 50∠0° mA
+
+IL =4.42∠-90°mA
+
+IC =8.89∠90°mA
+
+Itotal =50.2∠4.43°mA
+
+VR = VL = Vc = 5∠0° V
 
 
 
@@ -116,7 +148,23 @@ Ahora, podemos convertir el circuito en un circuito RLC paralelo. Para hacer est
 En resonancia en un circuito RLC paralelo, la impedancia total es solo el valor de la resistencia, ya que las reactancias se cancelan para que esos elementos puedan eliminarse del circuito. Entonces, Z a la frecuencia resonante es Z=53.5MΩ
 
 
+**25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.**
 
+[![04.png](https://i.postimg.cc/HsFkVtqt/04.png)](https://postimg.cc/vcLsK5H1)
+
+Pr= 0 VAR
+
+Pa= 7.45 μVA
+
+Preal= 538 mW
+
+**27. Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente y la corriente total.**
+
+[![05.png](https://i.postimg.cc/xCFSBfYP/05.png)](https://postimg.cc/8JW36V7F)
+
+a) -1.97 Vs esta retrasado con respecto a Itotal
+
+b) 23° Vs esta adentado con respecto a Itotal
 
 
 
@@ -143,7 +191,29 @@ El ángulo de fase entre I2 y el voltaje de la fuente es 45.17
 La corriente I2 adelanta a la tensión del par en 45,17
 
 
+*** 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.**
 
+
+[![06.png](https://i.postimg.cc/qqCWY21k/06.png)](https://postimg.cc/K3x933XV)
+
+IR1=IC1=1.09∠-25.7° mA
+
+IR2=767∠19.3° μA
+
+IC2=767∠109.3° μA
+
+IL=1.53∠-70.7° mA
+
+VR2=VC2=VL=7.67∠19.3° V
+
+VR1=3.6∠-25.7° V
+
+VC1=1.09∠-116° V
+
+
+****35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b en la figura 17-69?**
+
+52.2∠126° mA
 
 
 
@@ -183,12 +253,35 @@ El ancho de banda es simplemente la frecuencia de resonancia dividida por el fac
 
 <img src="https://latex.codecogs.com/svg.image?\\BW=\frac{f_{r}}{Q}=\frac{5kHz}{80}=62.5Hz&space;" title="\\BW=\frac{f_{r}}{Q}=\frac{5kHz}{80}=62.5Hz " />
 
+**41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la frecuencia crítica baja?**
 
+1.38 W
+
+**43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál es el ancho de banda a la misma fr?**
+
+200 hZ
 
 
 
 **CAPITULO 18**
 
+**1. En cierto filtro pasabajas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?**
+
+2.22∠-77.2° Vrms
+
+**3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10 V**
+
+[![01.png](https://i.postimg.cc/g2Wcd0Fz/01.png)](https://postimg.cc/Mv9JmqpN)
+
+
+
+a)9.36∠-20.7° V
+
+b)7.18∠-44.1° V
+
+c)9.96∠-5.44 V
+
+d)9.95∠-5.74 V
 
 
 
@@ -223,7 +316,27 @@ El ancho de banda es simplemente la frecuencia de resonancia dividida por el fac
  
  
  
- 
+ **9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:**
+
+a) -1dB
+
+7.13 V
+
+b) -3dB
+
+5.67 V
+
+c) -6dB
+
+4 V
+
+d) -20dB
+
+0.8 V
+
+**11. En un filtro pasaaltas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent  10 V rms?**
+
+9.75∠12.8° V
 
 
 **13. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent = 10 V.**
@@ -253,6 +366,21 @@ El ancho de banda es simplemente la frecuencia de resonancia dividida por el fac
  ![image](https://user-images.githubusercontent.com/93739242/155629387-5ef2ee99-88bd-4d91-ad52-28322f7cf175.png)
 
 
+**17. Determine la frecuencia central para cada filtro de la figura 18-43.**
+
+
+[![02.png](https://i.postimg.cc/G2s6HkGZ/02.png)](https://postimg.cc/CBSc2nvN)
+
+
+A)14.5 KHz
+
+B)24.0 kHz
+
+**19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0.**
+
+a)15.06 kKz
+
+b)25.3 kHz
 
 
 
@@ -285,7 +413,24 @@ El ancho de banda es simplemente la frecuencia de resonancia dividida por el fac
 <img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L(0.064&space;\mu&space;\mathrm{F})=\left(\frac{1}{40&space;\pi}\right)^{2}&space;\times&space;10^{-6}\\&L=\left(\frac{1}{(40&space;\pi)^{2}(0.064&space;\mu&space;\mathrm{F})}\right)^{2}&space;\times&space;10^{-6}\\&L=\frac{1}{(40&space;\pi)^{2}(0.064&space;\mu&space;\mathrm{F})}&space;\times&space;10^{-6}\\&f_{r}=\frac{1}{2&space;\pi&space;\sqrt{L&space;C}}\\&=\frac{1}{2&space;\pi&space;\sqrt{(989&space;\mu&space;\mathrm{H})(0.064&space;\mu&space;\mathrm{F})}}\\&=0.02&space;\mathrm{MHz}\\&f_{r}=20&space;\mathrm{kHz}\end{aligned}" title="\begin{aligned}&L(0.064 \mu \mathrm{F})=\left(\frac{1}{40 \pi}\right)^{2} \times 10^{-6}\\&L=\left(\frac{1}{(40 \pi)^{2}(0.064 \mu \mathrm{F})}\right)^{2} \times 10^{-6}\\&L=\frac{1}{(40 \pi)^{2}(0.064 \mu \mathrm{F})} \times 10^{-6}\\&f_{r}=\frac{1}{2 \pi \sqrt{L C}}\\&=\frac{1}{2 \pi \sqrt{(989 \mu \mathrm{H})(0.064 \mu \mathrm{F})}}\\&=0.02 \mathrm{MHz}\\&f_{r}=20 \mathrm{kHz}\end{aligned}" />
 
 
+**25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.**
 
+
+[![03.png](https://i.postimg.cc/ZYQCkZ5n/03.png)](https://postimg.cc/LhzHfcfF)
+
+
+a)86.3 Hz
+
+b)7.34 MHz
+
+
+***27. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.**
+
+[![04.png](https://i.postimg.cc/YCzFBVPP/04.png)](https://postimg.cc/qNgq8m4c)
+
+l1 =0.08 μH
+
+L2 = 0.5 μH
 
 
 
