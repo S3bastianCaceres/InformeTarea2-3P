@@ -440,7 +440,11 @@ https://youtu.be/Ll1T6AQS308
 
 # CONCLUSIONES #
 
+- Cuando se estudia los circuitos R, L y C, se pueden enconstrar muchos datos que permiten saber el comportamiento de cada uno de los componentes y predecir que es lo que pasara cuando distintos componentes son unidos en forma paralela o en serie.
 
+- El estudia de distintos circuitos en AC se los realiza con numeros complejos para graficar ondas sinusoidales, y observa como estas señales de frecuencia, voltaje, corriente van variando respecto al tiempo, los circuitos RLC en serie y paralelo se comportan de diferentes formas y obtener informacion de los datos que estos presentan fue de gran ayuda para el estudio y analisis de estos.
+
+- En los distintos casos cuando se habla de filtros pasabajas, pasaaltas, pasabanda y rechazabanda, dispuestros en circuitos R, L y C se logra obtener diversos datos mediante formulas matematicas, permitiendo asi mediante un diagrama de bonde observar como la frecuencia crece, y asi analizar los desibeles con respecto a la frecuencia.
 
 # BIBLIOGRAFIA #
 
