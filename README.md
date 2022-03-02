@@ -8,7 +8,9 @@
 
 # MARCO TEORICO #
 
+[![PARTE-1.jpg](https://i.postimg.cc/7LDhCWPj/PARTE-1.jpg)](https://postimg.cc/bZCpWLtR)
 
+[![PARTE-2.jpg](https://i.postimg.cc/pybxwmp3/PARTE-2.jpg)](https://postimg.cc/tn5LPCdz)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
 
