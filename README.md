@@ -4,6 +4,8 @@
 
 **Objetivo General**
 
+Estudiar y ampliar los métodos de análisis aprendidos en los capítulos anteriores con el fin de cubrir las combinaciones de componentes resistivos, inductivos y capacitivos, integrados en circuitos en serie y paralelo, de esta manera identificar la resonancia útil en muchos tipos de aplicaciones, los cuales se reflejarán en el siguiente capitulo el cual integra el concepto de filtros para así ilustrar aplicaciones de circuitos RC, RL y RLC.
+
 **Objetivos Específicos**
 
 - Determinar y analizar la impedancia de circuitos RLC tanto en serie como en paralelo
@@ -295,3 +297,5 @@ El ancho de banda es simplemente la frecuencia de resonancia dividida por el fac
 
 
 # BIBLIOGRAFIA #
+
+- Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
