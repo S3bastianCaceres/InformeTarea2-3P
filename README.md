@@ -8,9 +8,22 @@
 
 # MARCO TEORICO #
 
+**CAPITULO 17**
+
 [![PARTE-1.jpg](https://i.postimg.cc/7LDhCWPj/PARTE-1.jpg)](https://postimg.cc/bZCpWLtR)
 
 [![PARTE-2.jpg](https://i.postimg.cc/pybxwmp3/PARTE-2.jpg)](https://postimg.cc/tn5LPCdz)
+
+**CAPITULO 18**
+
+![Filtro Pasivo](https://user-images.githubusercontent.com/93739242/156445612-ab067037-7469-4fca-b0ed-110f25cbd4a0.png)
+
+![image (2)](https://user-images.githubusercontent.com/93739242/156446344-4070cbec-9ab6-45eb-830e-49e26e78f213.jpg)
+
+![Filtro Pasivos](https://user-images.githubusercontent.com/93739242/156445795-e8ccce91-9916-488b-9f98-c236e6e53066.png)
+
+![image](https://user-images.githubusercontent.com/93739242/156446537-38ca4a26-5d66-4cc3-96f6-36aedeef96d0.png)
+
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
 
